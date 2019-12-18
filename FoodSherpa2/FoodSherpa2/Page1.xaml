@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodSherpa2.Page1" >
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                 Margin="20,0,20,0">
+            <Label x:Name="names" />
+            <!--taking in user details and using the event handler textchanged to convert it to double -->
+            <Label Text="Enter your weight in kg"/>
+            <Entry x:Name="unitKg" Placeholder="kg" TextChanged="UnitKg_TextChanged" Keyboard="Numeric"/>
+            <Label Text="Enter your height in Metres"/>
+            <Entry x:Name ="unitM" Placeholder="Metres" TextChanged="UnitM_TextChanged" Keyboard="Numeric"/>
+            <!--taking the user to next page and calculating bmi -->
+            <Button x:Name="calcButton" 
+                Margin="0,10,0,0"
+                Text="Next"
+                Clicked="CalcButton_Clicked"
+                BackgroundColor="DodgerBlue"
+                TextColor="White"/>
+            <!--back button just in case navigates user to previous page -->
+            <Button x:Name="BackButton" 
+                Margin="0,10,0,0"
+                Text="Back"
+                Clicked="BackButton_Clicked"
+                BackgroundColor="DodgerBlue"
+                TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FoodSherpa2"
+             x:Class="FoodSherpa2.MainPage" >
+
+    <StackLayout VerticalOptions="Center"
+                 Margin="20,0,20,0">   <!-- Basic formatting -->
+        <Label Text="Welcome to FoodSherpa" />
+        <Entry x:Name="fName" Placeholder="First Name" TextChanged="FName_TextChanged"/>
+        <!-- Recieving input from the user -->
+        <Entry x:Name="lName" Placeholder="Last Name" TextChanged="LName_TextChanged"/>
+        <Button x:Name="ContinueButton" 
+                Margin="0,50,0,0"     
+                Text="Continue"                                   
+                Clicked="ContinueButton_Clicked"
+                BackgroundColor="DodgerBlue"
+                TextColor="White"/>  <!--Button to navigate to next page -->
+        
+
+
+    </StackLayout>
+
+</ContentPage>

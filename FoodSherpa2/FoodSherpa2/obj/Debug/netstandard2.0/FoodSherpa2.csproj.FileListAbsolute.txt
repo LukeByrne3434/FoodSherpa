@@ -1,0 +1,14 @@
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.csprojAssemblyReference.cache
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.csproj.CoreCompileInputs.cache
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.AssemblyInfoInputs.cache
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.AssemblyInfo.cs
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.dll
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\FoodSherpa2.pdb
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\bin\Debug\netstandard2.0\FoodSherpa2.deps.json
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\bin\Debug\netstandard2.0\FoodSherpa2.dll
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\bin\Debug\netstandard2.0\FoodSherpa2.pdb
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\purplehaze\source\repos\FoodSherpa2\FoodSherpa2\FoodSherpa2\obj\Debug\netstandard2.0\Page2.xaml.g.cs

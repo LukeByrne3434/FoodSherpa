@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodSherpa2.Page2" BackgroundImage="veg3.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button  TextColor="Black" 
+            BorderWidth="1" BorderRadius="20" BorderColor="White" 
+            BackgroundColor="DodgerBlue"  
+            x:Name="details1"  
+            AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <!--Used a button due to limitations of label design -->
+            <!--Outputting details to the user -->
+            <Label BackgroundColor="Transparent" 
+             AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+             AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            
+            <Button  TextColor="Black" 
+            BorderWidth="1" BorderRadius="20" BorderColor="White" 
+            BackgroundColor="DodgerBlue"  
+            x:Name="details2"  
+            AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"/>
+             <!--Outputting details to the user -->
+            <Label BackgroundColor="Transparent" 
+             AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+             AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <Button  TextColor="Black" 
+            BorderWidth="1" BorderRadius="20" BorderColor="White" 
+            BackgroundColor="DodgerBlue"  
+            x:Name="details3"  
+            AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"/>
+             <!--Outputting details to the user -->
+            <Label BackgroundColor="Transparent" 
+             AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+             AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <Button  TextColor="Black" 
+            BorderWidth="1" BorderRadius="20" BorderColor="White" 
+            BackgroundColor="DodgerBlue"  
+            x:Name="bmi"  
+            AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <!--Outputting calculated bmi to the user -->
+            <Label BackgroundColor="Transparent" 
+             AbsoluteLayout.LayoutBounds="0, .1, 180, 55" 
+             AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <Button x:Name="BackButton" 
+                Margin="0,10,0,0"
+                Text="Back"
+                Clicked="BackButton2_Clicked"
+                BackgroundColor="DodgerBlue"
+                TextColor="White"/>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
